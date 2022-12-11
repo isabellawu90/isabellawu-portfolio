@@ -43,20 +43,6 @@
             "tags": [
                 "Python"
             ]
-        },
-        {
-            "image": "images/projects/wordle.jpeg",
-            "title": "AI Search Methods for Solving Wordle ",
-            "bodyText": "- Used Python to improve 3 existing algorithms that can solve AI along with runtime analysis",
-            "links": [
-                {
-                    "text": "Project Paper",
-                    "href": "https://docs.google.com/document/d/1STHMjBaYpXwyJi6YmIXVKIGKT1oCmAybOAqZgQecZWE/edit?usp=sharing"
-                }
-            ],
-            "tags": [
-                "Python"
-            ]
         }
     ]
 }

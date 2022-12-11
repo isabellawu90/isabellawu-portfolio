@@ -4,18 +4,9 @@
             "title": "Aug 2019 - May 2023",
             "cardTitle": "B.S., Computer Science",
             "cardSubtitle": "Cornell University, Ithaca, NY",
-            "cardDetailedText": "Activites: CUSail Project Team, Society of Women Engineers, WICC (Women in Computing Cornell)",
+            "cardDetailedText": "Activites: CUSail Project Team, Society of Women Engineers",
             "icon": {
-                "src": "images/education/cornell-image.jpeg"
-            }
-        },
-        {
-            "title": "Sept 2016 - June 2019",
-            "cardTitle": "",
-            "cardSubtitle": "Central Bucks South High School, Warrington, PA",
-            "cardDetailedText": "Graduated Summa Cum Laude, National Honor Society",
-            "icon": {
-                "src": "images/education/cbsouth.jpeg"
+                "src": "images/education/cornell-logo.png"
             }
         }
     ]
