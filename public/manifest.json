@@ -1,10 +1,10 @@
 {
-  "short_name": "Isabella Wu",
-  "name": "Isabella Wu - Portfolio",
+  "short_name": "Mayank Agarwal",
+  "name": "Mayank Agarwal - Portfolio",
   "icons": [
     {
-      "src": "images/logo.jpeg",
-      "type": "image/jpeg",
+      "src": "images/logo.png",
+      "type": "image/png",
       "sizes": "425x225"
     }
   ],
