@@ -1,8 +1,8 @@
 {
     "education": [
         {
-            "title": "Aug 2019 - May 2023",
-            "cardTitle": "B.S., Computer Science",
+            "title": "Aug 2019 - May 2023 ",
+            "cardTitle": "B.S., Computer Science ",
             "cardSubtitle": "Cornell University, Ithaca, NY",
             "cardDetailedText": "Activites: CUSail Project Team, Society of Women Engineers, WICC (Women in Computing Cornell)",
             "icon": {
@@ -10,8 +10,8 @@
             }
         },
         {
-            "title": "Sept 2016 - June 2019",
-            "cardTitle": "",
+            "title": "",
+            "cardTitle": "Sept 2016 - June 2019",
             "cardSubtitle": "Central Bucks South High School, Warrington, PA",
             "cardDetailedText": "Graduated Summa Cum Laude, National Honor Society",
             "icon": {
@@ -19,8 +19,8 @@
             }
         },
         {
-            "title": "Sept 2012 - June 2019",
-            "cardTitle": "",
+            "title": "",
+            "cardTitle": "Sept 2012 - June 2019",
             "cardSubtitle": "Metropolitan Ballet Academy, Warrington, PA",
             "cardDetailedText": "Pre-Professional Company, Placed 1st at YAGP Phildelphia Semi-Finals",
             "icon": {
