@@ -1,0 +1,34 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "Gemini",
+            "workType": "Part-time Internship",
+            "workDescription": [
+                "Implemented dark mode on Nifty Gateway marketplace pages",
+                "Worked with the social team to expand social media/online reach to more potential customers and users"
+            ],
+            "dateText": "10/2022 – Present"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "Gemini",
+            "workType": "Full-time Internship",
+            "workDescription": [
+                "Fullstack implementation of rarity rankings on Nifty Gateway using Rarity Sniper API with data on over 1700 NFT collections amongst various blockchains",
+                "Worked with a team of interns to build a proposal for expanding early in career at Gemini to over 2,000 different college campuses and online coding school students "
+            ],
+            "dateText": "06/2022 – 08/2022"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "DocuSign",
+            "workType": "Full-time Internship",
+            "workDescription": [
+                "Created a sample app using the DocuSign eSignature API working alongside the Developer Content Team.",
+                "Owned end-to-end development of the app including product requirements and user interface design"
+            ],
+            "dateText": "05/2021 – 08/2021"
+        }
+    ]
+}
