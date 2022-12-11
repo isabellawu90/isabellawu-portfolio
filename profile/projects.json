@@ -33,7 +33,7 @@
         {
             "image": "images/projects/alien-invaders.png",
             "title": "Alien Invaders",
-            "bodyText": "- A Python version of Alien Invaders.",
+            "bodyText": "- A Python version of Alien Invaders, a classic game where a spaceship tries to kill the invading wave of aliens.",
             "links": [
                 {
                     "text": "GitHub Repo",
