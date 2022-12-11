@@ -56,8 +56,9 @@ function Experience(props) {
                 lineColor={theme.timelineLineColor}
               >
                 {data.map((item) => (
-                  <Fade key={item.title + item.dateText}>
+                  <Fade>
                     <TimelineItem
+                      key={item.title + item.dateText}
                       dateText={item.dateText}
                       dateInnerStyle={{ background: theme.accentColor }}
                       style={styles.itemStyle}
@@ -71,11 +72,11 @@ function Experience(props) {
                           {item.subtitle}
                         </h4>
                         {item.workType && (
-                          <h5 style={styles.inlineChild}>
-                            &nbsp;·
-                            {' '}
-                            {item.workType}
-                          </h5>
+                        <h5 style={styles.inlineChild}>
+                    &nbsp;·
+                          {' '}
+                          {item.workType}
+                        </h5>
                         )}
                       </div>
                       <ul style={styles.ulStyle}>
@@ -99,7 +100,7 @@ function Experience(props) {
               </Timeline>
             </Container>
           </div>
-        ) : <FallbackSpinner />}
+        ) : <FallbackSpinner /> }
     </>
   );
 }
