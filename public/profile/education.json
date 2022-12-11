@@ -17,6 +17,15 @@
             "icon": {
                 "src": "images/education/cbsouth.jpeg"
             }
+        },
+        {
+            "title": "Sept 2012 - June 2019",
+            "cardTitle": "",
+            "cardSubtitle": "Metropolitan Ballet Academy, Warrington, PA",
+            "cardDetailedText": "Pre-Professional Company, Placed 1st at YAGP Phildelphia Semi-Finals",
+            "icon": {
+                "src": "images/education/metballet.jpeg"
+            }
         }
     ]
 }
